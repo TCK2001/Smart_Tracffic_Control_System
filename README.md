@@ -1,6 +1,6 @@
 # YOLO26n-OBB Top-view Intersection Vehicle Counter
 
-This version uses `yolo26n-obb.pt` by default.
+This version uses `yolo26x-obb.pt` by default.
 
 ## Install
 
