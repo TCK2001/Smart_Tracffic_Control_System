@@ -66,3 +66,13 @@ outputs/{run_time}/
 ├── outputs\20260530_143344\traffic_counts.csv
 ├── outputs\20260530_143344\traffic_result.mp4
 ```
+
+## Result
+<img width="1578" height="1012" alt="image" src="https://github.com/user-attachments/assets/8e007548-c07a-4a75-831e-91546f33b521" />
+Switch the signal when EW traffic demand exceeds NS traffic demand.     
+
+
+### Gain 7 Seconds
+
+<img width="1580" height="975" alt="image" src="https://github.com/user-attachments/assets/408eb244-8249-4ab4-8b27-ebed070f1ef1" />
+
