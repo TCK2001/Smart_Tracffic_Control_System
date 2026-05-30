@@ -72,7 +72,7 @@ outputs/{run_time}/
 Switch the signal when EW traffic demand exceeds NS traffic demand.     
 
 
-### Gain 7 Seconds
+### Gain total 20 seconds - 7 Seconds = 13 seconds
 
 <img width="1580" height="975" alt="image" src="https://github.com/user-attachments/assets/408eb244-8249-4ab4-8b27-ebed070f1ef1" />
 
