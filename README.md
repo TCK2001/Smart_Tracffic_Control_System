@@ -1,2 +1,0 @@
-# Smart_Tracffic_Control_System
-Smart_Tracffic_Control_System
