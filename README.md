@@ -26,6 +26,8 @@ python zone_editor.py --input data/videos/test2.mp4 --zone-names North,East,Sout
 or 
 Execute the `zone.sh` shell file
 
+<img width="1275" height="748" alt="image" src="https://github.com/user-attachments/assets/e7f678c6-5882-4f20-bdab-e88af3cc1aa9" />
+
 ## Run YOLO26n-OBB
 Run `traffic_control_start.sh` shell file the quick start
 
